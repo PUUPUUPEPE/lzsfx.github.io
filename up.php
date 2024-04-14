@@ -1,7 +1,7 @@
 <?php
 $secret_key = "PizzaRoll44"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = "i/"; //This is your file dir, also the link..
-$domain_url = 'http://ss.yourdomain.com/'; //Add an S at the end of HTTP if you have a SSL certificate.
+$domain_url = 'https://lzsfx.xyz/'; //Add an S at the end of HTTP if you have a SSL certificate.
 $lengthofstring = 5; //Length of the file name
 
 function RandomString($length) {
